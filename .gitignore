@@ -1,0 +1,5 @@
+~/Downloads/Develhope/git/git_start/.gitignore
+
+.DS_Store
+*~
+tmp/
